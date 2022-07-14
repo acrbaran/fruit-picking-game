@@ -1,0 +1,4 @@
+Skor: 40
+Gecen Sure: 20.649
+Harcanan Meyve: 73
+Toplanan Meyve: 3
